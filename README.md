@@ -1,4 +1,19 @@
-<p align="left">Hello World!!</p>
+<p align="left">
+👋 Hey, I'm Venkatesh (Venky) – a CS undergrad who loves blending psychology, product thinking & storytelling to solve real-world problems.
+
+🧠 Deeply curious about self-optimization, behavior design, and building systems that actually work
+
+🚀 Passionate about startups, productivity tools, fitness/wellness, and human behavior
+
+🎯 Currently building products at the intersection of tech x psychology x performance
+
+💬 I thrive on deep convos, giving advice, explaining ideas, and helping people feel understood
+
+🛠 Exploring content creation, product roles, and startup ops – anything where I can talk, build, and solve
+
+🏀 Love basketball, fitness, music, and turning intense curiosity into action
+
+!!</p>
 
 ###
 
