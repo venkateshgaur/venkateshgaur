@@ -13,9 +13,10 @@
 
 🏀 Love basketball, fitness, music, and turning intense curiosity into action!!
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/1" alt="Recent Article 1"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/2" alt="Recent Article 2"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/0" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@venkateshgaur/3" alt="Recent Article 2"> 
 
 
 </p>
