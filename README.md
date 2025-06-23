@@ -54,20 +54,19 @@
 
 <img align="right" src="https://profile-counter.glitch.me/venkateshgaur/count.svg?"  />
 
+
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Venkyyyy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=venkyyyy?si=98dde38936344d48&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/0e3r5r1vuddmndxodgpb1op9s">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0e3r5r1vuddmndxodgpb1op9s&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=venkateshgaur" alt="Layout with last medium posts"  />
-</div>
-
+<h3 align="left">I am currently reading:</h3>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=<76748844>" alt="GoodReads reading" width="350" /></a>
 ###
