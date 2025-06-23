@@ -1,5 +1,5 @@
 <p align="left">
-👋 Hey, I'm Venkatesh (Venky) – a CS undergrad who loves blending psychology, product thinking & storytelling to solve real-world problems.
+👋 Hey, I'm Venkatesh  – a CS undergrad minoring in Entrepreneurship who loves blending psychology, product thinking & storytelling to solve real-world problems.
 
 🧠 Deeply curious about self-optimization, behavior design, and building systems that actually work
 
