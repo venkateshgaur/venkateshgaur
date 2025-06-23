@@ -11,9 +11,10 @@
 
 🛠 Exploring content creation, product roles, and startup ops – anything where I can talk, build, and solve
 
-🏀 Love basketball, fitness, music, and turning intense curiosity into action
+🏀 Love basketball, fitness, music, and turning intense curiosity into action!!
 
-!!</p>
+
+</p>
 
 ###
 
@@ -80,6 +81,8 @@
   </a>
 </div>
 
-<a href="https://medium.com/@venkateshgaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@venkateshgaur" height="30" width="40" /></a>
-</p>
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
