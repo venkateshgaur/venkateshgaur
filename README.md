@@ -13,8 +13,6 @@
 
 🏀 Love basketball, fitness, music, and turning intense curiosity into action!!
 
-# Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
