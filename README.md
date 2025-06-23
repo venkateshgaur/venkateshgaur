@@ -80,8 +80,4 @@
   </a>
 </div>
 
-###
 
-<h3 align="left">I am currently reading:</h3>
-<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=<76748844>" alt="GoodReads reading" width="350" /></a>
-###
