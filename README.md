@@ -7,7 +7,7 @@
 
 🎯 Currently building products at the intersection of tech x psychology x performance
 
-💬 I thrive on deep convos, giving advice, explaining ideas, and helping people feel understood
+💬 I thrive on deep convos, so connect with me on linkedin if you find any synergies! 
 
 🛠 Exploring content creation, product roles, and startup ops – anything where I can talk, build, and solve
 
